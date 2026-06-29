@@ -6,12 +6,15 @@ Built as part of my undergraduate studies, this project applies concepts from **
 
 ---
 
-# 🌐 Live Demo
+# 🌐 Demo
 
 🚀 **The Dashboard**
 
 [Watch Demo Video](/assets/Live_demo.mp4)
 
+![gif1](/assets/Live_demo%20(1).gif)
+![gif2](/assets/Live_demo%20(1)%20(1).gif)
+![gif2](/assets/Live_demo%20(1)%20(2).gif)
 ---
 
 # 🎬 Interactive Dashboard Walkthrough
